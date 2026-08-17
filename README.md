@@ -19,13 +19,3 @@ This is the official website for **Lexnova Technologies** — a premium digital 
 
 ## Website
 
-Live at: [https://yourusername.github.io/lexnova-technologies](https://yourusername.github.io/lexnova-technologies)
-
-## How to Update
-
-1. Go to your GitHub repository
-2. Click on `index.html`
-3. Click the pencil icon (Edit)
-4. Make your changes
-5. Scroll down and click **Commit changes**
-6. The website updates automatically in ~1 minute
