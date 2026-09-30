@@ -1,0 +1,19 @@
+{
+    "workbench.editor.autoLockGroups": {
+        "default": true,
+        "workbench.editor.chatDebug": true,
+        "workbench.editorinputs.searchEditorInput": true,
+        "agentSessionsWelcomePage": true,
+        "notebookOutputEditor": true,
+        "jupyter-notebook": true,
+        "workbench.editor.chatSession": true,
+        "repl": true,
+        "mainThreadWebview-markdown.preview": true,
+        "workbench.input.interactive": true,
+        "vscode.videoPreview": true,
+        "vscode.audioPreview": true,
+        "imagePreview.previewEditor": true,
+        "workbench.editors.gettingStartedInput": true,
+        "vscode.markdown.editor": true
+    }
+}
